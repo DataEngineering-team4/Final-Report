@@ -1,6 +1,6 @@
 ## The Team
 
--   Kangbin Go
+-   Kangbeen Ko
 -   Minjun Kim
 -   Yoonjae Kim
 -   Taejun Eom
@@ -35,7 +35,7 @@ Our system can be broken down into three primary components:
 
 Here's a brief overview of how these components interact:
 
-1. The user inputs voice data through the mobile application.
+1. The user inputs voice data(waveform) through the mobile application.
 
 2. The voice data is sent to the Backend System.
 
