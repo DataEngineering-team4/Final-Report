@@ -9,18 +9,16 @@ Github Organization: [https://github.com/DataEngineering-team4](https://github.c
 
 ## Problem Definition
 
-In today's digital age, an increasing number of children are exposed to smartphones at an early age. With this comes an alarming trend of reduced interpersonal communication, which is being overshadowed by individual content consumption. Notably, the number of friends that young children interact with is dwindling significantly. This is a critical issue as limited conversation can lead to underdeveloped communication skills in children.
+In today's digital age, more and more children are exposed to smartphones at an early age. At the same time, there is a remarkable trend of reduced interpersonal communication, which is being overshadowed by personal content consumption. In particular, positive social exchanges are significantly reduced for dual-income families or long-term hospitalized children. This is an important issue because limited conversation can degrade children's communication skills.
 
-To address this, we have developed an application to aid children in their communication skills development. Through this application, children can converse with an animated character they've drawn themselves via voice interaction. Essentially, this provides children with their unique companion to converse with whenever they lack conversation partners or when parents are unable to engage in dialogue with them.
+To solve this problem, we developed an application that helps children develop their communication skills. The app allows children to have voice conversations with their own animated characters. Basically, it provides a unique companion for children to talk to when they lack a contact or when their parents are unable to participate in the conversation with them.
 
-This application is designed to counteract the issue of reduced conversations among children. According to a 2017 study published in the Journal of Developmental & Behavioral Pediatrics [1], children who spend more time with handheld screens are more likely to exhibit a delay in expressive speech. Similarly, a report from the UK's Communication Trust [2] suggests that children's language development is being hindered by a screen-led lifestyle and a lack of conversation at home. Our application aims to mitigate this issue by providing an interactive and engaging way for children to practice and develop their conversation skills.
-
+This application is designed to solve the problem of reduced conversation between children. According to a 2017 study published in the Journal of Developmental and Behavior Pediatrics[1], children who spend more time with portable screens are more likely to delay speaking. Similarly, a report by the British Communications Trust [2] suggests that children's language development is hampered by screen-driven lifestyles and lack of conversation at home. Our application aims to alleviate this problem by providing an interactive and attractive way for children to practice and develop conversational skills.
 
 
 ### Video Demo
 
-[video]
-
+https://github.com/DataEngineering-team4/Final-Report/assets/76294398/97bfae38-b82c-4b19-8532-ee4f3f123651
 
 
 ## System Design
