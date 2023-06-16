@@ -17,7 +17,7 @@ Minjun Kim 
 - Frontend Development
 - UI/UX Design
 
-Taejun Eom 
+<a href="https://ttajun36.github.io/">Taejun Um </a>
 - Frontend Development
 - Animated Drawing Implementation
 
