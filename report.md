@@ -1,5 +1,5 @@
 ## Team information
-Kangbeen Ko 
+<a href='https://kevintherainmaker.github.io/'>Kangbeen Ko </a>
 - Project Ideation
 - Model Research
 - ML Engineering
@@ -11,7 +11,7 @@ Minjun Kim 
 - Whisper API Implementation
 - Service Deployment
 
-Yoonjae Kim 
+<a href='y00njaekim.github.io'>Yoonjae Kim </a>
 - Project Ideation
 - Backend Development
 - Frontend Development
