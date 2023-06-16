@@ -11,7 +11,7 @@ Minjun Kim 
 - Whisper API Implementation
 - Service Deployment
 
-<a href='y00njaekim.github.io'>Yoonjae Kim </a>
+<a href='https://y00njaekim.github.io'>Yoonjae Kim </a>
 - Project Ideation
 - Backend Development
 - Frontend Development
