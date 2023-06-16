@@ -32,6 +32,8 @@ Mobile Application: Developed with Flutter (Dart), this application is the prima
 Backend System: Hosted on AWS EC2, this system is built using Django Rest Framework (DRF). It serves as the intermediary between the mobile application and the Inference Server, processing user voice data and relaying it to and from the relevant services.
 Inference Server: Hosted on a separate server, this system houses our fine-tuned Text-to-Speech (TTS) model. It converts text responses from the ChatGPT API into voice data.
 
+![image](https://github.com/DataEngineering-team4/Final-Report/assets/76294398/52c29d97-08bf-412e-8848-80f30040676f)
+
 Here's a brief overview of how these components interact:
 1.	The user inputs voice data(waveform) through the mobile application.
 2.	The voice data is sent to the Backend System.
